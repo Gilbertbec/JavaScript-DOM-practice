@@ -1,0 +1,31 @@
+/* Solution of Assignment 5 in LasalleCollege Montreal 4/3/2018
+Practice using javascript operate DOM to achieve dynamic additions, changes and deletions
+In order to control the JS code within 100 lines for funny, some codes deliberately did not follow the code specification
+Gilbert Zhang xixi2010@gamil.com */
+#PlaceHolder{
+    margin: auto;
+    width:90%;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    width: 160px;
+}
+
+input[type="text"],input{
+    background-color:#F8F8F8;
+    border-radius: 6px;
+    margin: 5px;
+    width: 95%;
+}
+
+input[type="button"]{
+    background-color:#F8F8F8;
+    border-radius: 6px;
+    margin-left: 8px;
+    margin-right: 0px;
+    width: 80px;
+}
